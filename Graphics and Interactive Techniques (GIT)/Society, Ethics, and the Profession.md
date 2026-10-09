@@ -1,0 +1,34 @@
+# Society, Ethics, and the Profession
+KA Core:
+1. Accessibility in immersive, interactive, and physical computing applications (See also: SEP-DEIA)
+a. Accessible to people with mobility impairments
+b. Accessible to people with vision and/or hearing impairments
+2. Ethics/privacy in graphics applications. (See also: SEP-Privacy, SEP-Professional-Ethics, and
+SEP-Security)
+a. Acquisition of private data (room scans, body proportions, active cameras, etc.)
+b. Can’t look away from immersive applications easily
+c. Danger to self/surroundings while immersed
+d. Ethical pitfalls of facial recognition
+e. Misleading visualizations
+i.
+Due to incorrect data because of exaggeration, hole filling, smoothing, data cleanup, etc.
+ii.
+Even correct data can mislead (e.g., aliasing can cause back moving or stopped fan
+blades)
+f. Privacy regarding health and other personal information
+g. Bias in image processing
+i.
+Deep fakes
+ii.
+Applications that misidentify people based on skin color or hairstyle
+3. Intellectual Property law as it relates to computer graphics and interactive techniques (See also:
+SEP-IP)
+a. images used to train generative AI
+b. images produced by generative AI
+4. Current and past contributors to the field (See also: SEP-DEIA)
+Illustrative Learning Outcomes:
+KA Core:
+1. Discuss the security issues inherent in location tags.
+2. Describe the ethical pitfalls of facial recognition. Can facial recognition be used ethically? If so,
+how?
+3. Discuss the copyright issues of using watermarked images to train a neural network.

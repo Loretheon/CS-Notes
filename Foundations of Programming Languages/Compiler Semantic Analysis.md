@@ -1,0 +1,20 @@
+# Compiler Semantic Analysis
+Non-core:
+1. Abstract syntax trees; contrast with concrete syntax
+2. Defining, traversing, and modifying high-level program representations
+3. Scope and binding resolution
+4. Static semantics
+a. Type checking.
+b. Define before use
+5. L-values/R-values (See also: SDF-Fundamentals)
+6. Call semantics
+7. Types of parameter-passing with simple illustrations and comparison: call by value, call by reference, call by value-result, call by name, call by need and their variations
+8. Declarative specifications such as attribute grammars and their applications in handling limited context-base grammar
+c. Annotation and extended static checking frameworks.
+
+Illustrative learning outcomes:
+Non-core:
+1. Draw the abstract syntax tree for a small language.
+2. Implement context-sensitive, source-level static analyses such as type-checkers or resolving
+identifiers to identify their binding occurrences.
+3. Describe semantic analyses using an attribute grammar.
